@@ -1,6 +1,7 @@
 1st:
 
 ![image](https://github.com/ApurbaCodes/auto_clicker/assets/166163495/607aa184-b2e0-4081-8483-13ac62f7e3be)
+
 Click on continue
 
 2nd:
@@ -10,6 +11,7 @@ Set the cursor position where you want to click
 3rd:
 
 ![image](https://github.com/ApurbaCodes/auto_clicker/assets/166163495/33be3109-6db2-4023-8975-ecb7db75b4ca)
+
 If the cursor position is right then click yes otherwise click no and set the cursor again.
 
 4th:
