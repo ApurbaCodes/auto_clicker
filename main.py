@@ -7,7 +7,7 @@ class Clicker:
     def __init__(self):
         self.running = True
     def starter(self):
-        start=pyautogui.confirm(text="Auto Clicker Started. Please set the cursor position within 10 sec.",
+        start=pyautogui.confirm(text="Auto Clicker Started. Please set the cursor position within 5 sec.",
                                   title="Auto Clicker",
                                    buttons=['Continue','Cancle'] )
         return start =="Continue"
